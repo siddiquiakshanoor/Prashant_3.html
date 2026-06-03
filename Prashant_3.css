@@ -1,0 +1,28 @@
+*{
+    margin: 0.0%;
+    padding:0.0%;
+}
+html,body{
+    height:100%;
+    width: 100%;
+    background-color: #f4f6f8;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#Box1{
+    background-color: #ffffff ;
+    height: 24.55%;
+    width: 24.80%;
+    border-radius: 10px;
+    margin-left: 0.0%;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+h3{
+    text-align: center;
+    color: #0073b1;
+}
+p{
+    color: #333333;
+}
+a:hover{
+    text-decoration: underline;
+}
